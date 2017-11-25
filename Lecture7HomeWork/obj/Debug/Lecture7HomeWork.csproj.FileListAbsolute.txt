@@ -1,0 +1,13 @@
+c:\users\proga\documents\visual studio 2017\Projects\Lecture7HomeWork\Lecture7HomeWork\bin\Debug\Lecture7HomeWork.exe.config
+c:\users\proga\documents\visual studio 2017\Projects\Lecture7HomeWork\Lecture7HomeWork\bin\Debug\Lecture7HomeWork.exe
+c:\users\proga\documents\visual studio 2017\Projects\Lecture7HomeWork\Lecture7HomeWork\bin\Debug\Lecture7HomeWork.pdb
+c:\users\proga\documents\visual studio 2017\Projects\Lecture7HomeWork\Lecture7HomeWork\obj\Debug\Lecture7HomeWork.csprojResolveAssemblyReference.cache
+c:\users\proga\documents\visual studio 2017\Projects\Lecture7HomeWork\Lecture7HomeWork\obj\Debug\Lecture7HomeWork.Properties.Resources.resources
+c:\users\proga\documents\visual studio 2017\Projects\Lecture7HomeWork\Lecture7HomeWork\obj\Debug\Lecture7HomeWork.csproj.GenerateResource.Cache
+c:\users\proga\documents\visual studio 2017\Projects\Lecture7HomeWork\Lecture7HomeWork\obj\Debug\Lecture7HomeWork.csproj.CoreCompileInputs.cache
+c:\users\proga\documents\visual studio 2017\Projects\Lecture7HomeWork\Lecture7HomeWork\obj\Debug\Lecture7HomeWork.exe
+c:\users\proga\documents\visual studio 2017\Projects\Lecture7HomeWork\Lecture7HomeWork\obj\Debug\Lecture7HomeWork.pdb
+c:\users\proga\documents\visual studio 2017\Projects\Lecture7HomeWork\Lecture7HomeWork\obj\Debug\Lecture7HomeWork.GuessNumber.resources
+c:\users\proga\documents\visual studio 2017\Projects\Lecture7HomeWork\Lecture7HomeWork\obj\Debug\Lecture7HomeWork.LeaveApplication.resources
+c:\users\proga\documents\visual studio 2017\Projects\Lecture7HomeWork\Lecture7HomeWork\obj\Debug\Lecture7HomeWork.LeaveApplicationText.resources
+c:\users\proga\documents\visual studio 2017\Projects\Lecture7HomeWork\Lecture7HomeWork\obj\Debug\Lecture7HomeWork.MainForm.resources
